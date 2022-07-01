@@ -1,0 +1,32 @@
+body {
+    font-family: fantasy;
+    font-size: medium;
+    line-height: 1.5em;
+}
+
+.outer {
+    width: 500px;
+    height: 500px;
+    background: blue;
+}
+
+.inner {
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+#heading {
+    color: green;
+}
+div {
+    text-transform: uppercase;
+}
